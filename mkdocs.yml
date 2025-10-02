@@ -1,10 +1,10 @@
 site_name: "Conifer Seedling Establishement "
 site_description: 'Postfire seedling regeneration stratergies project'
 site_author: Nayani Ilangakoon
-site_url: "https://OWNER.github.io/REPO/"
+site_url: "https://github.com/Chathu84/seedling-establishment/"
 
 # Repository
-repo_name: seedling-establishment
+repo_name: Chathu84/seedling-establishment
 repo_url: https://github.com/Chathu84/seedling-establishment
 edit_uri: edit/main/docs/
 # Copyright

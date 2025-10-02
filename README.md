@@ -1,6 +1,6 @@
-# Project Group OASIS — Starter Website & README Kit
+# Conifer Seedling Establishment in a mountaineous Landscape 
 
-This guide is written for people who may be brand new to GitHub. It will show you, step by step, how to use this repository as both:
+This repository demonstrates where. how, and why conifer seedlings are present/not present in a post-wildfire landscape in Colorado FrontRange using spatial modeling framework:
 
 1. A **website** to communicate your science to others.
 2. A **hub for sharing code** within your group.

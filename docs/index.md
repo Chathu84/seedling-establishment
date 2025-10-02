@@ -10,7 +10,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 ![Wide banner of the study system](assets/big2.png)
 [Raw photo location: big2.png](https://github.com/Chathu84/seedling-establishment/edit/main/docs/assets/big2.png)
 
-**One sentence on impact:** In 3 days, we explore *X* to inform *Y*, producing actionable visuals, a concise brief, and shareable code.
+**One sentence on impact:** We demonstrate where, how, and why conifer seedlings are present/not present in a post-wildfire landscape in Colorado Front Range using spatial modeling framework producing actionable visuals, a concise briefs, and shareable codes.
 
 **[Project brief (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code) · [Data & access](data.md)**
 

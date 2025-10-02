@@ -7,8 +7,8 @@
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
 
-![Wide banner of the study system](assets/hero.jpg)
-[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/hero.jpg)
+![Wide banner of the study system](assets/big2.png)
+[Raw photo location: big2.png](https://github.com/Chathu84/seedling-establishment/edit/main/docs/assets/big2.png)
 
 **One sentence on impact:** In 3 days, we explore *X* to inform *Y*, producing actionable visuals, a concise brief, and shareable code.
 

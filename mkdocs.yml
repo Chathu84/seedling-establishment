@@ -1,11 +1,11 @@
-site_name: "Project Title"
-site_description: 'Central resource for ESIIL project groups'
-site_author: Ty Tuff
+site_name: "Conifer Seedling Establishement "
+site_description: 'Postfire seedling regeneration stratergies project'
+site_author: Nayani Ilangakoon
 site_url: "https://OWNER.github.io/REPO/"
 
 # Repository
-repo_name: Project-group-home
-repo_url: https://github.com/CU-ESIIL/Project_group_oasis
+repo_name: seedling-establishment
+repo_url: https://github.com/Chathu84/seedling-establishment
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
@@ -23,8 +23,8 @@ nav:
       - Save to persistent storage: instructions/save-to-persistent-storage.md
       - RStudio Proxy Workaround: instructions/open-rstudio.md
   - Storage:
-      - Your code: https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code
-      - Your documentation: https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/documentation
+      - Your code: https://github.com/Chathu84/seedling-establishment/tree/main/code
+      - Your documentation: https://github.com/Chathu84/seedling-establishment/tree/main/documentation
       - Your persistent storage: "https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_1?type=folder&resourceId=1993057e-8e90-11f0-b0fa-90e2ba675364"
   - Orientation:
       - Summit slides: orientation/slides.md

@@ -1,4 +1,4 @@
-# Conifer Seedling Establishmnet in Post Wildfire Landscape
+# Conifer Seedling Establishment in Post Wildfire Landscape
 
 
 <p style="text-align: right;"><a href="https://github.com/Chathu84/seedling-establishment/edit/main/docs/index.md" title="Edit this page">✏️</a></p>

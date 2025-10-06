@@ -34,8 +34,8 @@ In the western US and most of the global dry forest landscapes postfire recovery
 
 ### Field notes / visuals
 <!-- EDIT: Replace with a real smartphone photo or sketch; keep filename simple. -->
-![Whiteboard brainstorm (replace this)](assets/day1_whiteboard.jpg)
-[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/day1_whiteboard.jpg)
+![Whiteboard brainstorm (replace this)](assets/draft_model.png)
+[Raw photo location: draft_model.png]([https://github.com](https://github.com/Chathu84/seedling-establishment/edit/main/docs/assets/draft_model.png)
 *Caption: What this shows and why it’s useful today.*
 
 > **Different perspectives:** Briefly capture disagreements or alternate framings. These can unlock innovation.

@@ -40,6 +40,7 @@ In the western US and most of the global dry forest landscapes postfire recovery
 <!-- EDIT: Replace with a real smartphone photo or sketch; keep filename simple. -->
 ![Whiteboard brainstorm (replace this)](assets/draft_model.png)
 [Raw photo location: draft_model.png](https://github.com/Chathu84/seedling-establishment/edit/main/docs/assets/draft_model.png)
+
 *Caption: Draft modeling framework with variable inputs and theur potential influences.*
 
 > **Different perspectives:** Briefly capture disagreements or alternate framings. These can unlock innovation.

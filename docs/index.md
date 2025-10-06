@@ -6,8 +6,12 @@
 ![Wide banner of the study system](assets/big2.png)
 [Raw photo location: big2.png](https://github.com/Chathu84/seedling-establishment/edit/main/docs/assets/big2.png)
 
-**Impact:** We demonstrate where, how, and why conifer seedlings are present/not present in a post-wildfire landscape in Colorado Front Range using spatial modeling framework producing actionable visuals, a concise briefs, and shareable codes.
+**Impact:** 
+
+We demonstrate where, how, and why conifer seedlings are present/not present in a post-wildfire landscape in Colorado Front Range using spatial modeling framework producing actionable visuals, a concise briefs, and shareable codes.
 ---
+## Projevt summary
+
 ### Our product 
 This repository provides a bayasian spatial modeling framework implemneted using rINLA to predict the seedling establisghmnet potential with uncertainty in a postfire environment penalize with site , fire, and climate pecific characteristics.
 
@@ -36,7 +40,8 @@ In the western US and most of the global dry forest landscapes postfire recovery
 <!-- EDIT: Replace with a real smartphone photo or sketch; keep filename simple. -->
 ![Whiteboard brainstorm (replace this)](assets/draft_model.png)
 [Raw photo location: draft_model.png]([https://github.com](https://github.com/Chathu84/seedling-establishment/edit/main/docs/assets/draft_model.png)
-*Caption: What this shows and why it’s useful today.*
+
+*Caption: Draft modeling framework with variable inputs and theur potential influences.*
 
 > **Different perspectives:** Briefly capture disagreements or alternate framings. These can unlock innovation.
 

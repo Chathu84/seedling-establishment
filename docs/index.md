@@ -22,7 +22,7 @@ This repository provides a bayasian spatial modeling framework implemneted using
 - We think thta shade tents or proximity to shrubs/standing dead reduce VPD and raise survival in largely open landscapes.
   
 
-### Why this matters (the “upshot”) 
+### Why this matters 
 <!-- EDIT: 2–3 sentences max, decision-oriented. -->
 In the western US and most of the global dry forest landscapes postfire recovery is studied in local scales and are studying site specific questions. We believe that with current high frequency, high intensity wildfires in the dry forest systems, there need a standard way of understanding how these postfire landscapes evolves and how intentional managemnet needed to be supplied. To make these descitions, it is importamt to know the mechanisms on postfire seedling establishments and the drievers impacting. This study provides a Bayasian spatial modeling framework to inform uncertainty driven insights for seedling establishments usings an array of wildires occured in over two decades ago in the Southern Rockies Ponderosa pine forests.  
 

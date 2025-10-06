@@ -3,42 +3,24 @@
 
 <p style="text-align: right;"><a href="https://github.com/Chathu84/seedling-establishment/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
-<!-- =========================================================
-HERO (Swap hero.jpg, title, strapline, and the three links)
-========================================================= -->
-
 ![Wide banner of the study system](assets/big2.png)
 [Raw photo location: big2.png](https://github.com/Chathu84/seedling-establishment/edit/main/docs/assets/big2.png)
 
-**One sentence on impact:** We demonstrate where, how, and why conifer seedlings are present/not present in a post-wildfire landscape in Colorado Front Range using spatial modeling framework producing actionable visuals, a concise briefs, and shareable codes.
-
-**[Project brief (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code) · [Data & access](data.md)**
-
-> **About this site:** This is a public, in-progress record of a 3-day project at the Innovation Summit. Edit everything here in your browser: open a file → pencil icon → Commit changes.
-
+**Impact:** We demonstrate where, how, and why conifer seedlings are present/not present in a post-wildfire landscape in Colorado Front Range using spatial modeling framework producing actionable visuals, a concise briefs, and shareable codes.
 ---
-
-## How to use this page (for the team)
-- **Edit this file:** `docs/index.md` → ✎ → change text → **Commit changes**.
-- **Add images:** upload to `docs/assets/` and reference like `assets/your_file.png`.
-- Keep **text short** and **visuals first**. Think “slide captions,” not essays.
-
----
-
 ### Our product 
--This repository provides a bayasian spatial modeling framework implemneted using rINLA to predict the seedling establisghmnet potential with uncertainty in a postfire environment penalize with site , fire, and climate pecific characteristics.
+This repository provides a bayasian spatial modeling framework implemneted using rINLA to predict the seedling establisghmnet potential with uncertainty in a postfire environment penalize with site , fire, and climate pecific characteristics.
 
-### Our question(s) 📣
+### Our question(s) 
 <!-- EDIT: Replace bullets with your own. Encourage divergent takes. -->
-- What are we trying to understand or change?
-- Why now? Why here?
-- Who benefits if we succeed?
+- Why here or what drives the distribution of conifer seedlings/ and with time (emergence)?
+- What is the impact of legecy (dead trees) and other woody vegetation on seedling survival?
 
 ### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
 <!-- EDIT: Plain language, short and honest. -->
-- We think that …
-- We intend to test whether …
-- We will know we’re onto something if …
+- We think that seed avilability defines the seedling establisghment regardless fire specific characteristics
+- We think thta shade tents or proximity to shrubs/standing dead reduce VPD and raise survival in largely open landscapes.
+  
 
 ### Why this matters (the “upshot”) 📣
 <!-- EDIT: 2–3 sentences max, decision-oriented. -->

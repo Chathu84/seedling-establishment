@@ -25,11 +25,8 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ---
 
-## Day 1 — Define & Explore
-*Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
-
-### Our product 📣
-- What product do you want to create as a team?
+### Our product 
+-This repository provides a bayasian spatial modeling framework implemneted using rINLA to predict the seedling establisghmnet potential with uncertainty in a postfire environment penalize with site , fire, and climate pecific characteristics.
 
 ### Our question(s) 📣
 <!-- EDIT: Replace bullets with your own. Encourage divergent takes. -->

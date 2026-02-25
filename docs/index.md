@@ -1,4 +1,4 @@
-# Conifer Seedling Detection in Post Wildfire Landscape
+# Conifer Seedling Establishment in Post Wildfire Landscape
 
 
 <p style="text-align: right;"><a href="https://github.com/Chathu84/seedling-establishment/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
@@ -8,7 +8,7 @@
 
 **Impact:** 
 
-We demonstrate a methodological workflow to use Unscrewed Aerial Systems (UAS) to detect seedlings as small as 0.3 m in height in a post-wildfire landscape in Colorado Front Range as a test case.
+We demonstrate where, how, and why conifer seedlings are present/not present and how they keep their density in a post-wildfire landscape in Colorado Front Range using spatial modeling framework producing actionable visuals, a concise briefs, and shareable codes.
 ---
 ## Project summary
 

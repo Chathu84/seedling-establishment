@@ -8,7 +8,7 @@
 
 **Impact:** 
 
-We demonstrate where, how, and why conifer seedlings are present/not present in a post-wildfire landscape in Colorado Front Range using spatial modeling framework producing actionable visuals, a concise briefs, and shareable codes.
+We demonstrate where, how, and why conifer seedlings are present/not present and how they keep their density in a post-wildfire landscape in Colorado Front Range using spatial modeling framework producing actionable visuals, a concise briefs, and shareable codes.
 ---
 ## Project summary
 

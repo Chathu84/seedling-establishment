@@ -154,7 +154,7 @@ In the western US and most of the global dry forest landscapes postfire recovery
 ## Team
 | Name | Role | Contact | GitHub |
 |------|------|---------|--------|
-| Jane Doe | Lead | jane.doe@example.org | @janedoe |
+| Nayani Ilangakoon | Lead | ginikanda.ilangakoon@colorado.edu | @chathu84 |
 | John Smith | Analyst | john.smith@example.org | @jsmith |
 
 ---
